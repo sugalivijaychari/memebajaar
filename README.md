@@ -25,7 +25,7 @@ Web3.js v1.4.0
 We have built this on top of Ethereum Blockchain where we used standard ERC721 Non Fungible Tokens. We built two smart contracts, ERC721 and NFT Marketplace. We faced challenges integrating both contracts. When we were calling ERC721 functions within NFT Marketplace functions, we were unable to fetch the function invoker addresses by msg.sender. Later we have gone through solidity docs and resolved this by using Tx.origin.
 
 ## Future Developments
-Integrate Auction contract with NFT Marketplace contract and build a complete dApp using React.js and Web3.js
+Develop Auction contract with NFT Marketplace contract and build a complete dApp using React.js and Web3.js
 
 ## Acknowledgements
 Thanks to EthOdesey and DevFolio for giving opportunity to build this project on Ethereum
